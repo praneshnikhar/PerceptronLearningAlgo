@@ -45,3 +45,5 @@ show_learning(w)
 
 # for i in range(len(w)):
     # w[i] += (y*LEARNING_RATE * x[i])
+
+
