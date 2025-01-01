@@ -39,3 +39,9 @@ y_train = [1.0, 1.0, 1.0, -1.0]
 w = [0.2, -0.6, 0.25]
 
 show_learning(w)
+
+
+# weight update using step of perceptron learning algorithm
+
+# for i in range(len(w)):
+    # w[i] += (y*LEARNING_RATE * x[i])
